@@ -85,12 +85,18 @@ export default function Projects() {
 
               <div className="relative h-[260px] overflow-hidden">
 
-                <Image
-                  src={project.image}
-                  alt={project.title}
-                  fill
-                  className="object-cover transition duration-700 group-hover:scale-110"
-                />
+                {project.image ? (
+                  <Image
+                    src={project.image}
+                    alt={project.title}
+                    fill
+                    className="object-cover transition duration-700 group-hover:scale-110"
+                  />
+                ) : (
+                  <div className="w-full h-full bg-gradient-to-br from-[#C9A84C]/20 to-black/50 flex items-center justify-center">
+                    <span className="text-6xl">🍽️</span>
+                  </div>
+                )}
 
                 <div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent" />
 

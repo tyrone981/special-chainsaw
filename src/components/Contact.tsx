@@ -40,18 +40,7 @@ export default function Contact() {
 
         </div>
 
-        {/* Heading */}
-
-        <h2 className="mt-8 text-center text-5xl md:text-6xl font-black text-white">
-          {t('contact.title')}
-        </h2>
-
-        <p className="mx-auto mt-6 max-w-2xl text-center text-lg leading-8 text-gray-400">
-          {t('contact.subtitle')}
-        </p>
-
-        {/* Contact Card */}
-
+        
         <div className="mt-16 rounded-3xl border border-white/10 bg-white/[0.03] p-10 backdrop-blur-xl shadow-[0_0_60px_rgba(201,168,76,0.08)]">
 
           <div className="grid gap-8 md:grid-cols-2">
