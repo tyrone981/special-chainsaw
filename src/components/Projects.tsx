@@ -27,7 +27,7 @@ export default function Projects() {
     {
       title: t('projects.Lounge'),
       category: t('projects.LoungeCat'),
-      image: '/projects/Lounge.png',
+      image: '/projects/lounge.png',
       url: '',
     },
   ];
