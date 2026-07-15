@@ -1,0 +1,86 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "available": "Available for Projects",
+    "line1": "Building",
+    "line2": "Premium Digital",
+    "line3": "Experiences",
+    "subtitle": "FYN Studios designs elegant websites, premium brands, and digital experiences that help ambitious businesses stand out and grow.",
+    "cta": "Start Your Project",
+    "viewWork": "View Portfolio",
+    "statProjects": "10+",
+    "statProjectsLabel": "Projects",
+    "statClients": "10+",
+    "statClientsLabel": "Happy Clients",
+    "statDedication": "100%",
+    "statDedicationLabel": "Dedication",
+    "scroll": "Scroll"
+  },
+  "services": {
+    "badge": "Premium Services",
+    "heading1": "Designed to",
+    "heading2": "Elevate Your Brand",
+    "subtitle": "At FYN Studios, every project is crafted with precision, creativity, and strategy to deliver premium digital experiences that inspire confidence and drive results.",
+    "web": "Web Development",
+    "webDesc": "Beautiful, responsive websites engineered for speed, performance, and business growth.",
+    "branding": "Brand Identity",
+    "brandingDesc": "Luxury branding systems that make your business instantly recognizable and memorable.",
+    "marketing": "Digital Growth",
+    "marketingDesc": "Marketing strategies that generate leads, increase visibility, and accelerate growth.",
+    "learnMore": "Learn More"
+  },
+  "projects": {
+    "badge": "Featured Work",
+    "heading1": "Selected",
+    "heading2": "Projects",
+    "subtitle": "Every project is carefully crafted with strategy, creativity, and attention to detail to deliver exceptional digital experiences.",
+    "description": "A premium website designed with performance, aesthetics, and user experience at its core.",
+    "liveSite": "Live Site",
+    "comingSoon": "Coming Soon",
+    "hydra": "Hydra Beauty Institute",
+    "hydraCat": "Beauty & Wellness",
+    "nenkicks": "NenKicks",
+    "nenkicksCat": "Fashion & Sneakers",
+    "Lounge": "Lounge",
+    "LoungeCat": "Restaurant"
+  },
+  "about": {
+    "badge": "About FYN Studios",
+    "heading1": "We Design",
+    "heading2": "Digital Experiences",
+    "paragraph1": "FYN Studios is a creative digital agency focused on building premium websites and memorable brand experiences.",
+    "paragraph2": "Our philosophy is simple: combine elegant design, modern technology, and strategic thinking to create digital products that inspire confidence and help businesses grow.",
+    "available": "Available for New Projects",
+    "cta": "Let's Work Together",
+    "statProjects": "Projects Completed",
+    "statSatisfaction": "Client Satisfaction",
+    "statSupport": "Support"
+  },
+  "contact": {
+    "badge": "Let's Connect",
+    "heading1": "Let's Build Something",
+    "heading2": "Exceptional Together",
+    "subtitle": "Whether you're launching a new business, refreshing your brand, or creating a premium website, FYN Studios is ready to help bring your vision to life.",
+    "infoTitle": "Contact Information",
+    "emailLabel": "Email",
+    "locationLabel": "Location",
+    "location": "Douala, Cameroon",
+    "whatsapp": "Chat on WhatsApp",
+    "email": "Send an Email",
+    "footer": "FYN STUDIOS • Premium Digital Experiences"
+  },
+  "footer": {
+    "description": "Premium digital experiences crafted for ambitious businesses that want to stand out.",
+    "navigation": "Navigation",
+    "ready": "Ready to Start?",
+    "ctaText": "Let's build something remarkable together.",
+    "button": "Start Your Project",
+    "copyright": "© 2026 FYN Studios. Crafted with passion in Cameroon."
+  }
+}

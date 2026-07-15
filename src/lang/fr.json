@@ -1,0 +1,86 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "services": "Services",
+    "projects": "Projets",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "available": "Disponible pour des Projets",
+    "line1": "Construisons",
+    "line2": "Des Expériences",
+    "line3": "Digitales Premium",
+    "subtitle": "FYN Studios conçoit des sites web élégants, des marques premium et des expériences digitales qui aident les entreprises ambitieuses à se démarquer et à se développer.",
+    "cta": "Démarrer Votre Projet",
+    "viewWork": "Voir le Portfolio",
+    "statProjects": "10+",
+    "statProjectsLabel": "Projets",
+    "statClients": "10+",
+    "statClientsLabel": "Clients Satisfaits",
+    "statDedication": "100%",
+    "statDedicationLabel": "Dévouement",
+    "scroll": "Défiler"
+  },
+  "services": {
+    "badge": "Services Premium",
+    "heading1": "Conçu pour",
+    "heading2": "Valoriser Votre Marque",
+    "subtitle": "Chez FYN Studios, chaque projet est conçu avec précision, créativité et stratégie pour offrir des expériences digitales premium qui inspirent confiance et génèrent des résultats.",
+    "web": "Développement Web",
+    "webDesc": "Des sites web magnifiques et performants, conçus pour la vitesse, la performance et la croissance de votre entreprise.",
+    "branding": "Identité de Marque",
+    "brandingDesc": "Des systèmes de branding luxueux qui rendent votre entreprise instantanément reconnaissable et mémorable.",
+    "marketing": "Croissance Digitale",
+    "marketingDesc": "Des stratégies marketing qui génèrent des prospects, augmentent la visibilité et accélèrent la croissance.",
+    "learnMore": "En Savoir Plus"
+  },
+  "projects": {
+    "badge": "Projets en Vedette",
+    "heading1": "Nos",
+    "heading2": "Réalisations",
+    "subtitle": "Chaque projet est soigneusement conçu avec stratégie, créativité et souci du détail pour offrir des expériences digitales exceptionnelles.",
+    "description": "Un site web premium conçu avec la performance, l'esthétique et l'expérience utilisateur au cœur.",
+    "liveSite": "Voir le Site",
+    "comingSoon": "Bientôt Disponible",
+    "hydra": "Hydra Beauty Institute",
+    "hydraCat": "Beauté & Bien-être",
+    "nenkicks": "NenKicks",
+    "nenkicksCat": "Mode & Sneakers",
+    "Lounge": "Lounge",
+    "LoungeCat": "Restaurant"
+  },
+  "about": {
+    "badge": "À Propos de FYN Studios",
+    "heading1": "Nous Concevons",
+    "heading2": "Des Expériences Digitales",
+    "paragraph1": "FYN Studios est une agence digitale créative spécialisée dans la création de sites web premium et d'expériences de marque mémorables.",
+    "paragraph2": "Notre philosophie est simple : combiner un design élégant, une technologie moderne et une réflexion stratégique pour créer des produits digitaux qui inspirent confiance et aident les entreprises à se développer.",
+    "available": "Disponible pour de Nouveaux Projets",
+    "cta": "Travaillons Ensemble",
+    "statProjects": "Projets Réalisés",
+    "statSatisfaction": "Satisfaction Client",
+    "statSupport": "Support"
+  },
+  "contact": {
+    "badge": "Connectons-Nous",
+    "heading1": "Construisons Ensemble",
+    "heading2": "Quelque Chose d'Exceptionnel",
+    "subtitle": "Que vous lanciez une nouvelle entreprise, rafraîchissiez votre marque ou créiez un site web premium, FYN Studios est prêt à vous aider à concrétiser votre vision.",
+    "infoTitle": "Informations de Contact",
+    "emailLabel": "Email",
+    "locationLabel": "Localisation",
+    "location": "Douala, Cameroun",
+    "whatsapp": "Discuter sur WhatsApp",
+    "email": "Envoyer un Email",
+    "footer": "FYN STUDIOS • Expériences Digitales Premium"
+  },
+  "footer": {
+    "description": "Des expériences digitales premium conçues pour les entreprises ambitieuses qui veulent se démarquer.",
+    "navigation": "Navigation",
+    "ready": "Prêt à Commencer ?",
+    "ctaText": "Construisons ensemble quelque chose de remarquable.",
+    "button": "Démarrer Votre Projet",
+    "copyright": "© 2026 FYN Studios. Conçu avec passion au Cameroun."
+  }
+}
